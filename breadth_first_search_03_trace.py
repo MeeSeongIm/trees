@@ -1,3 +1,5 @@
+# BFS algorithm. Shows trace. 
+
 
 graph = {
     "1": ["2", "3"],
