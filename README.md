@@ -1,4 +1,4 @@
-trees_and_graphs
+trees
 ================
 
-Tree and graphs algorithms.
+Tree algorithms.
