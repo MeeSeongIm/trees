@@ -54,9 +54,9 @@ def postorder(node, visitor = printwithspace):   # left, right, root
 
 stdout.write(" preorder: ")
 preorder(tree)
-stdout.write(" inorder: ")
+stdout.write("\n inorder: ")
 inorder(tree)
-stdout.write(" postorder: ")
+stdout.write("\n postorder: ")
 postorder(tree) 
 
 
